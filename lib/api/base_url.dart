@@ -1,5 +1,5 @@
 // const serviceUrl = 'http://hnt.hnjiayou.cn/api/v1'; // dev
-const serviceUrl = 'http://192.168.2.145:8099/api'; //pro
+const serviceUrl = 'http://hnt.hnjiayou.cn/api'; //pro
 
 
 const servicePath = {
