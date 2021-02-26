@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - loading_indicator_view (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - loading_indicator_view (from `.symlinks/plugins/loading_indicator_view/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  loading_indicator_view:
+    :path: ".symlinks/plugins/loading_indicator_view/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  loading_indicator_view: fb6f8efecc1cd030dc3a42a39f9107eef908da86
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.3

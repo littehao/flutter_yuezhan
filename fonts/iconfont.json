@@ -1,0 +1,65 @@
+{
+  "id": "2372461",
+  "name": "约战",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1613597",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "4633285",
+      "name": "充值",
+      "font_class": "chongzhi",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "8102711",
+      "name": "礼物",
+      "font_class": "icon-test",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "11494021",
+      "name": "记录",
+      "font_class": "zu",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "6237077",
+      "name": "右",
+      "font_class": "tubiaozhizuo-",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "18883567",
+      "name": "锁",
+      "font_class": "suo",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "8392086",
+      "name": "icon_对战",
+      "font_class": "icon_duizhan",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "12136164",
+      "name": "我的",
+      "font_class": "ziyuan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
